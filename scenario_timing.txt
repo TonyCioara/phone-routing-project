@@ -1,0 +1,2 @@
+scenario_2 = 0.1766 seconds
+scenario_3 = 15.2437 seconds
